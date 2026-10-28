@@ -1,5 +1,5 @@
 {
   "EMGCoordinateSystem": "Other",
-  "EMGCoordinateSystemDescription": "X: RSP  USP; Y: Right-hand rule (limits: Olecranon Process  Cubital Fossa); Z: midpoint RSP-USP  LHE; Radial Styloid Process (RSP); Ulnar Styloid Process (USP), Lateral Humerus Epicondyle (LHE), Posterior Elbow (Olecranon Process)",
+  "EMGCoordinateSystemDescription": "X: RSP \u001a USP; Y: Right-hand rule (limits: Olecranon Process \u001a Cubital Fossa); Z: midpoint RSP-USP \u001a LHE; Radial Styloid Process (RSP); Ulnar Styloid Process (USP), Lateral Humerus Epicondyle (LHE), Posterior Elbow (Olecranon Process)",
   "EMGCoordinateUnits": "percent"
 }
